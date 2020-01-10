@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Scrolling bar</title>
+	<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+	<div class="container">
+	<nav class="navbar">
+	
+	<ul>
+		<li><a href="#home">HOME</a></li>
+		<li><a href="#about">ABOUT</a></li>
+		<li><a href="#services">SERVICES</a></li>
+		<li><a href="#contact">CONTACT</a></li>
+	</ul>
+</nav>
+<section id="home">
+	<h1>Welcome to my website</h1>
+
+	<!--<img src="https://media5.picsearch.com/is?Rv2OJ6AXzl77rSx5GrMVJUcgeMGdtjphH-i9HFOF1dA&height=227">-->
+	<p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.  </p>
+	 
+</section>
+<section id="about">
+	<h1>About</h1>
+	<p>
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</p>
+</section>
+<section id="services">
+	<h1>Services</h1>
+	<p>ed fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. </p>
+</section>
+<section id="contact">
+	<h1>Contact</h1>
+	<p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.  </p>
+</section>
+</div>
+</body>
+</html>
